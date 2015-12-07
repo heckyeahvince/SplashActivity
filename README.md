@@ -1,20 +1,11 @@
 # Splash Activity Demo
 
-splashactivitydemo-melvincabatuan created by Classroom for GitHub
-
 This assignment presents a simple Splash screen implementation.
 
 
 ## Problem:
 
 Design and implement an Android app Splash screen activity with animation.
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/d8aab198953cb4c32134dc3682a8ade9
 
 ## Sample Solution:
 
@@ -126,31 +117,3 @@ In custom_anim.xml
         android:duration="2000" />
 </set>
 ```
-
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-Sample:
-
-https://gist.github.com/melvincabatuan/b788b1d69e16fcca81e1 
-
-
-## Screenshots:
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-melvincabatuan/blob/master/device-2015-10-05-214850.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-melvincabatuan/blob/master/device-2015-10-05-214922.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-melvincabatuan/blob/master/device-2015-10-05-214937.png)
-
-"*Chance is a word devoid of sense, nothing can exist without a cause.*" - Voltaire
